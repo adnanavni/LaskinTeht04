@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="LaskinTest" project="laskin" tests="5" started="5" failures="0" errors="0" ignored="1">
+  <testsuite name="laskin.LaskinTest" time="0.068" displayname="LaskinTest" uniqueid="[engine:junit-jupiter]/[class:laskin.LaskinTest]">
+    <testcase name="testJaaNollalla" classname="laskin.LaskinTest" time="0.046" displayname="Testaa nollallajako" uniqueid="[engine:junit-jupiter]/[class:laskin.LaskinTest]/[method:testJaaNollalla()]"/>
+    <testcase name="testJaa" classname="laskin.LaskinTest" time="0.003" displayname="Testaa jakolasku 8 / 2" uniqueid="[engine:junit-jupiter]/[class:laskin.LaskinTest]/[method:testJaa()]"/>
+    <testcase name="testKerro" classname="laskin.LaskinTest" time="0.0" ignored="true" displayname="testKerro()" uniqueid="[engine:junit-jupiter]/[class:laskin.LaskinTest]/[method:testKerro()]"/>
+    <testcase name="testLisaa" classname="laskin.LaskinTest" time="0.002" displayname="testLisaa()" uniqueid="[engine:junit-jupiter]/[class:laskin.LaskinTest]/[method:testLisaa()]"/>
+    <testcase name="testVahenna" classname="laskin.LaskinTest" time="0.002" displayname="testVahenna()" uniqueid="[engine:junit-jupiter]/[class:laskin.LaskinTest]/[method:testVahenna()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ExtraTest" project="laskin" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="laskin.ExtraTest" time="0.061" displayname="ExtraTest" uniqueid="[engine:junit-jupiter]/[class:laskin.ExtraTest]">
+    <testcase name="testNeliojuuriNegat" classname="laskin.ExtraTest" time="0.039" displayname="Testaa negatiivinen neliöjuuri" uniqueid="[engine:junit-jupiter]/[class:laskin.ExtraTest]/[method:testNeliojuuriNegat()]"/>
+    <testcase name="testNeliojuuri2" classname="laskin.ExtraTest" time="0.004" displayname="testNeliojuuri2()" uniqueid="[engine:junit-jupiter]/[class:laskin.ExtraTest]/[method:testNeliojuuri2()]"/>
+    <testcase name="testNelio2" classname="laskin.ExtraTest" time="0.005" displayname="testNelio2()" uniqueid="[engine:junit-jupiter]/[class:laskin.ExtraTest]/[method:testNelio2()]"/>
+    <testcase name="testNelio4" classname="laskin.ExtraTest" time="0.002" displayname="testNelio4()" uniqueid="[engine:junit-jupiter]/[class:laskin.ExtraTest]/[method:testNelio4()]"/>
+    <testcase name="testNelio5" classname="laskin.ExtraTest" time="0.002" displayname="testNelio5()" uniqueid="[engine:junit-jupiter]/[class:laskin.ExtraTest]/[method:testNelio5()]"/>
+  </testsuite>
+</testrun>

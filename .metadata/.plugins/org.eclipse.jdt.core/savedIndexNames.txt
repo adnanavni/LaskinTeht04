@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+/Users/adnanavni/Desktop/Koulu/ohjelmistoprojekit1/laskin/.metadata/.plugins/org.eclipse.jdt.core
+2868247802.index
+1556132053.index
+1956932070.index
+2951792782.index
+3836017200.index
+323542643.index
+1647557907.index
+4064002005.index
+2765299686.index
+2224647231.index
+2817871464.index
+1865797976.index
+1206332214.index
+911871195.index
+1811015631.index

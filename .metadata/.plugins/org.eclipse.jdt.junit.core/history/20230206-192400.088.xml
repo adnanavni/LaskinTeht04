@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="NelioTest" project="laskin" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="laskin.NelioTest" time="0.051" displayname="NelioTest" uniqueid="[engine:junit-jupiter]/[class:laskin.NelioTest]">
+    <testsuite name="testNelio(laskin.NelioTest)" time="0.051" displayname="testNelio(int, int)" parameters="int,int" uniqueid="[engine:junit-jupiter]/[class:laskin.NelioTest]/[test-template:testNelio(int, int)]">
+      <testcase name="testNelio" classname="laskin.NelioTest" time="0.051" dynamicTest="true" displayname="Luvun 0 neliö on 0" parameters="int,int" uniqueid="[engine:junit-jupiter]/[class:laskin.NelioTest]/[test-template:testNelio(int, int)]/[test-template-invocation:#1]"/>
+      <testcase name="testNelio" classname="laskin.NelioTest" time="0.002" dynamicTest="true" displayname="Luvun 1 neliö on 1" parameters="int,int" uniqueid="[engine:junit-jupiter]/[class:laskin.NelioTest]/[test-template:testNelio(int, int)]/[test-template-invocation:#2]"/>
+      <testcase name="testNelio" classname="laskin.NelioTest" time="0.002" dynamicTest="true" displayname="Luvun 2 neliö on 4" parameters="int,int" uniqueid="[engine:junit-jupiter]/[class:laskin.NelioTest]/[test-template:testNelio(int, int)]/[test-template-invocation:#3]"/>
+      <testcase name="testNelio" classname="laskin.NelioTest" time="0.002" dynamicTest="true" displayname="Luvun 4 neliö on 16" parameters="int,int" uniqueid="[engine:junit-jupiter]/[class:laskin.NelioTest]/[test-template:testNelio(int, int)]/[test-template-invocation:#4]"/>
+      <testcase name="testNelio" classname="laskin.NelioTest" time="0.001" dynamicTest="true" displayname="Luvun 5 neliö on 25" parameters="int,int" uniqueid="[engine:junit-jupiter]/[class:laskin.NelioTest]/[test-template:testNelio(int, int)]/[test-template-invocation:#5]"/>
+      <testcase name="testNelio" classname="laskin.NelioTest" time="0.001" dynamicTest="true" displayname="Luvun 6 neliö on 36" parameters="int,int" uniqueid="[engine:junit-jupiter]/[class:laskin.NelioTest]/[test-template:testNelio(int, int)]/[test-template-invocation:#6]"/>
+    </testsuite>
+  </testsuite>
+</testrun>
